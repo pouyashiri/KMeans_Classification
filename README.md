@@ -1,4 +1,4 @@
-# kmeans_sample
+# Applying K-Means on Call-of-Duty Player Information Dataset
 This project applies the clustering algorithm (K-Means) on the Call-of-Duty players' info dataset. 
 <br/>
 Link to the Kaggle Post: https://www.kaggle.com/pouyashiri/cod-player-clustering
